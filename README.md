@@ -1,6 +1,7 @@
-Cer
 
 # JourneyBench: A Challenging One-Stop Vision-Language Understanding Benchmark of Generated Images
+
+[![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=github)](https://journeybench.github.io/)
 
 ## Overview
 
