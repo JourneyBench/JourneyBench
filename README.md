@@ -41,7 +41,7 @@ TBD
 Inside the folder `midjourney-scrapper`, the `scrapper.py` file downloads both top-voted and trending images from the publicly visible gallery, requiring no login or session token. The images will be stored in a new folder with today's date in the form `YYYYMMDD`.
 
 ## License
-
+[License](https://github.com/JourneyBench/JourneyBench/blob/main/LICENSE.md)
 ## Contributions
 
 **Zhecan Wang**<sup>♠</sup>, **Junzhang Liu**<sup>♠</sup>, **Chia-Wei Tang**<sup>†</sup>, **Hani Alomari**<sup>†</sup>, **Anushka Sivakumar**<sup>†</sup>, **Rui Sun**<sup>♠</sup>, **Wenhao Li**<sup>♠</sup>, **Md. Atabuzzaman**<sup>†</sup>, **Hammad Ayyubi**<sup>♠</sup>, **Haoxuan You**<sup>♠</sup>, **Alvi Ishmam**<sup>†</sup>, **Kai-Wei Chang**<sup>♦</sup>, **Shih-Fu Chang**<sup>♠</sup>, **Chris Thomas**<sup>†</sup>
