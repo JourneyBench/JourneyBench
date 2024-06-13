@@ -22,9 +22,6 @@ JourneyBench is a comprehensive dataset designed to rigorously assess the fine-g
 
 JourneyBench serves as a standalone testing set and does not include specific splits for training and validation. The dataset is intended to evaluate models that have been trained on other datasets. The entire JourneyBench dataset, including all instances from tasks such as MCOT, Multi-image VQA, Image Captioning, VQA with Hallucination Triggers, and Fine-Grained Cross-Modal Retrieval, is used exclusively for testing. -->
 
-## Evaluation
-
-
 
 ## Evaluation
 
